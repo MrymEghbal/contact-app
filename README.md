@@ -34,7 +34,17 @@ npm run dev
 ```
 
 ## 📁 Folder Structure
+```
 
+## 🖼 Screenshots
+
+![(public/Screenshot.png)](https://github.com/MrymEghbal/contact-app/blob/main/public/img1.png)(https://github.com/MrymEghbal/contact-app/blob/main/public/img2.png)
+
+## 👨‍💻 Developer
+
+Made with ❤️ by **Maryam Eghbal**  
+GitHub: [@MrymEghbal](https://github.com/MrymEghbal/contact-app.git)  
+Email: eghbal.mrym@gmail.com (optional)
 ---
 
 You are welcome to contribute, fork, or use this project as a foundation for building your own CRUD applications.
