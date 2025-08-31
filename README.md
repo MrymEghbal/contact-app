@@ -38,7 +38,7 @@ npm run dev
 
 ## 🖼 Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/MrymEghbal/contact-app/main/public/img2.png)
+![Screenshot](https://github.com/MrymEghbal/contact-app/blob/main/public/img2.png)
 
 ## 👨‍💻 Developer
 
